@@ -35,10 +35,6 @@ math → for galaxy animation
 
 🚀 Installation & Usage
 
-Clone the repository (or download files):
-
-git clone https://github.com/your-username/mystical-orb-password-generator.git
-cd mystical-orb-password-generator
 
 
 Run the program:
